@@ -8,3 +8,6 @@ As a very blunt, up-front disclaimer: none of the information that follows is or
 
 ### Chapter 2: Multi-Arm Bandits
 This section of the book is dedicated to framing the optimal control and award maximization principles via an illustration though the "multi-armed bandit." More is discussed in the Chapter 2 Jupyter Notebook file. 
+
+### Chapter 3: Finite Markov Decision Processes
+Here we begin to formulate the reinforcement learning problem, starting with markov chains and moving into Markov Decision Processes. We evaluate random and optimal value functions using the Gridworld example outlined in the text.
