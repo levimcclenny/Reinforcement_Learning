@@ -1,2 +1,2 @@
-### [Multi-Arm Bandits](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Chapter2.html
+### [Multi-Arm Bandits](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Chapter2.html)
 This section of the book is dedicated to framing the optimal control and award maximization principles via an illustration though the "multi-armed bandit." Here we have the source code for most of the figures and a few notable examples from the text. More is discussed in the [Jupyter Notebook](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Chapter2.html). 
