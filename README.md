@@ -1,2 +1,0 @@
-### [Finite Markov Decision Processes](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Chapter3.html)
-Here we begin to formulate the reinforcement learning problem, starting with markov chains and moving into Markov Decision Processes. We evaluate random and optimal value functions using the Gridworld example outlined in the text. Some of the more important takeaways are outlined in the [Jupyter Notebook](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Chapter3.html)
